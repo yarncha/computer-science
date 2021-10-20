@@ -14,7 +14,7 @@ https://yam-cha.tistory.com/193
 
 ### 2. 스택과 큐
 
-블로그 링크
+https://yam-cha.tistory.com/194
 
 * [Stack](./stack.cpp)
 * [Queue](./queue.cpp)
