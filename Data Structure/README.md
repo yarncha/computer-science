@@ -9,13 +9,13 @@
 https://yam-cha.tistory.com/193
 
 * [Array](./array.cpp)
-* [Linked List](./linked_list.cpp)
+* [Single Linked List](./single_linked_list.cpp)
 
 
 ### 2. 스택과 큐
 
 https://yam-cha.tistory.com/194
 
-* [Stack](./stack.cpp)
-* [Queue](./queue.cpp)
+<!-- * [Stack](./stack.cpp)
+* [Queue](./queue.cpp) -->
 * [Queue with 2 Stacks](./queue_with_2_stacks.cpp)
